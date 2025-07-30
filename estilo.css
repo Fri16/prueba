@@ -1,0 +1,18 @@
+body{background: violet;
+    
+}
+
+.principal{
+    background: rgba(120, 245, 245, 0.915);
+    text-align: center;
+}
+
+.segunda{
+    background: rgb(255, 148, 109);
+    text-align: left;
+
+}
+.tercera {
+    background: rgb(167, 255, 129);
+    text-align: right;
+}
